@@ -19,10 +19,10 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone Shrutikumari24/Login-and-Register-App.git
 2. Navigate to the project directory:
    ```shell
-   cd YourRepository
+   cd Login-and-Register-App
 3. Install dependencies:
    ```shell
    npm install
