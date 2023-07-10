@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 ### 1. Navigate to the project directory:
       ```shell
-      cd YourRepository
+   git clone https://github.com/YourUsername/YourRepository.git
 ### 2. Install dependencies:
       ```shell
       npm install
