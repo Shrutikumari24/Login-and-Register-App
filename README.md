@@ -1,5 +1,5 @@
 # My Login App
-
+The project is built for TATA Prashikshan 2023.
 ## Description
 
 The Login and Registration App is a web application developed using React. It provides a user-friendly interface for users to log in or register with their credentials. The app follows a single-page application architecture, where users can seamlessly switch between the login and registration forms.
