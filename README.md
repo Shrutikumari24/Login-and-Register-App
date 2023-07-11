@@ -7,11 +7,11 @@ The Login and Registration App is a web application developed using React. It pr
 
 The app includes the following features:
 
-- Login: Users can enter their email and password to log in. The app verifies the user's credentials and grants access to the authenticated area upon successful login.
-- Registration: New users can register by providing their full name, email, password, and confirming the password. The app validates the registration data and stores it securely.
-- Password Validation: The app validates the password to ensure it meets certain requirements, such as minimum length and complexity and password match during registration.
-- Error Handling: Appropriate error messages are displayed for invalid login attempts or registration errors.
-- Responsive Design: The app is designed to be responsive, adapting to different screen sizes and devices. It provides a consistent user experience across desktop, tablet, and mobile devices.
+- **Login:** Users can enter their email and password to log in. The app verifies the user's credentials and grants access to the authenticated area upon successful login.
+- **Registration:** New users can register by providing their full name, email, password, and confirming the password. The app validates the registration data and stores it securely.
+- **Password Validation:** The app validates the password to ensure it meets certain requirements, such as minimum length and complexity and password match during registration.
+- **Error Handling:** Appropriate error messages are displayed for invalid login attempts or registration errors.
+- **Responsive Design:** The app is designed to be responsive, adapting to different screen sizes and devices. It provides a consistent user experience across desktop, tablet, and mobile devices.
 
 ## Installation and Setup
 
@@ -41,8 +41,6 @@ To run this project locally, follow these steps:
 ## Screenshots
 
 ### Home Page of My Login App:
-
-
 ![Screenshot (89)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/169c96fe-de02-478d-b25d-264d96005169)
 
 ### Login Page:
