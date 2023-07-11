@@ -40,11 +40,14 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-Home Page of My Login App:
+### Home Page of My Login App:
+
 ![Screenshot (89)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/169c96fe-de02-478d-b25d-264d96005169)
 
-Login Page:
+### Login Page:
+
 ![Screenshot (90)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/8e45de9a-37d2-4184-9234-4367860e0b94)
 
-Registration Page
+### Registration Page:
+
 ![Screenshot (91)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/e9889857-0d63-4197-9f67-90ca9a37eb1b)
