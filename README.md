@@ -1,4 +1,3 @@
-# Login and Register App
 # My Login App
 
 ## Description
@@ -51,4 +50,4 @@ To run this project locally, follow these steps:
 
 ## Working
 
-The app has a straightforward interface. The app starts with a Home Page which contains details of the app. On clicking the **Get Started" button on the Home Page it will direct the user to Login Page. Then the user can check the Login and Register functionality of the app by filling in the valid details.
+The app has a straightforward interface. The app starts with a Home Page which contains details of the app. On clicking the **Get Started** button on the Home Page it will direct the user to Login Page. Then the user can check the Login and Register functionality of the app by filling in the valid details. The user can switch between the Login and Registration forms by clicking on the respective links at the bottom of the page. To come back to the Home Page the user has to reload the browser and it takes the user back to the Home Page of the App.
