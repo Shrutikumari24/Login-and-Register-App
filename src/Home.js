@@ -14,7 +14,7 @@ const Home = ({ switchToLogin }) => {
         <h2>Welcome to My Login App</h2>
         <p>The app aims to provide a simple and secure login and registration experience for users,</p>
         <p> utilizing React for the front-end interface and a JSON server for data storage.
-          <p>Click on the 'Get Started' button below to be directed to the Login Page.</p>
+          <p>Click on the 'Get Started' button below to be directed to the 'Login Page'.</p>
         </p>
         <button onClick={switchToLogin}>Get Started</button>
       </section>
