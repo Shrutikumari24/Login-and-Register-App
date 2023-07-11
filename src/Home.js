@@ -7,8 +7,7 @@ const Home = ({ switchToLogin }) => {
       <header className="header">
         <h1>TATA Prashikshan 2023</h1>
         <img src={logoImage} alt="#we make future" className="logo" />
-        {/* <p className="logo-tagline">#WeAlsoMakeTomorrow</p> */}
-      </header>
+        </header>
 
       <section className="hero">
         <h2>Welcome to My Login App</h2>
