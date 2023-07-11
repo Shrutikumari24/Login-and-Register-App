@@ -13,12 +13,6 @@
   flex-direction: column;
 }
 
-/* .auth-form-container{
-  padding: 2.5rem;
-  border: 1px solid white;
-  border-radius: 10px;
-} */
-
 label{
   text-align: left;
   padding: 0.25rem 0;
@@ -62,15 +56,3 @@ button{
   width: 200px;
   height: auto;
 }
-
-/* .logo-tagline {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  font-weight: bold;
-  margin: 0;
-  padding: 0;
-  font-size: 14px;
-  color: black;
-} */
