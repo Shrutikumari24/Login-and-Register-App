@@ -6,7 +6,7 @@ const Home = ({ switchToLogin }) => {
     <div className="home">
       <header className="header">
         <h1>TATA Prashikshan 2023</h1>
-        <img src={logoImage} alt="#we make future" className="logo" />
+        <img src={logoImage} alt="#logo" className="logo" />
         </header>
 
       <section className="hero">
