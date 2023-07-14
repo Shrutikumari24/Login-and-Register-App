@@ -44,7 +44,6 @@ button{
   text-decoration: underline;
 }
 
-/* Registration.css */
 .error-message{
   color: red;
   font-size: 14px;
@@ -55,4 +54,45 @@ button{
 .logo {
   width: 200px;
   height: auto;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c0ceeb;
+  padding: 10px;
+  height: 40px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.logo-left img{
+  max-width: 120px;
+  max-height: 120px;
+}
+
+.logo-right img{
+  max-width: 90px;
+  max-height: 50px;
+}
+
+.logo-left {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}
+
+.logo-right {
+  position: absolute;
+  top: 4px;
+  right: 35px;
+}
+
+.logo-left,
+.logo-right {
+  display: flex;
+  align-items: center;
 }
