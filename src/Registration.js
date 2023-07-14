@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import { toast } from 'react-toastify';
+import logoImage1 from './left logo.png';
+import logoImage2 from './Logo(1).png';
 
 const Registration = ({ switchToLogin, onRegistrationSuccess }) => {
   const [fullName, setFullName] = useState('');
@@ -39,6 +41,14 @@ const Registration = ({ switchToLogin, onRegistrationSuccess }) => {
 
   return (
     <div className="auth-form-container">
+      <div className="top-bar">
+        <div className="logo-left">
+          <img src={logoImage1} alt="Logo 1" />
+        </div>
+        <div className="logo-right">
+          <img src={logoImage2} alt="Logo 2" />
+        </div>
+      </div>
       <h2>Registration</h2>
       <form className="register-form" onSubmit={handleSubmit}>
         <label htmlFor="fullName">Full Name</label>
