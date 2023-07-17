@@ -43,11 +43,11 @@ To run this project locally, follow these steps:
 ![Screenshot (89)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/169c96fe-de02-478d-b25d-264d96005169)
 
 ### Login Page:
-![Screenshot (90)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/8e45de9a-37d2-4184-9234-4367860e0b94)
+![Screenshot (132)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/921b394f-7ee7-480b-8920-8b231c13eeea)
 
 ### Registration Page:
-![Screenshot (91)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/e9889857-0d63-4197-9f67-90ca9a37eb1b)
+![Screenshot (133)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/1eb95a8c-a93b-4ba5-a19d-b24b1bc84247)
 
 ## Working
 
-The app has a straightforward interface. The app starts with a Home Page which contains details of the app. On clicking the **Get Started** button on the Home Page it will direct the user to Login Page. Here the user can check the Login and Register functionality of the app by filling in the valid details. The user can switch between the Login and Registration forms by clicking on the respective links at the bottom of the page. To come back to the Home Page the user has to reload the browser and it takes the user back to the Home Page of the App.
+The app has a simple user interface. The app starts with a Home Page that contains details of the app. When a user clicks the **Get Started** button on the Home Page, they are directed to the Login Page. Here the user can check the Login and Register functionality of the app by entering valid details. The user can switch between the Login and Registration forms by clicking on the respective links at the bottom of the page. To return to the Home Page, the user must reload the browser, which takes them back to the App's Home Page.
