@@ -50,5 +50,4 @@ To run this project locally, follow these steps:
 
 ## Working
 
-The app has a simple user interface. The app starts with a Home Page that contains details of the app. When a user clicks the 
-**Get Started** button on the Home Page, they are directed to the Login Page. Here the user can check the Login and Register functionality of the app by entering valid details. The user can switch between the Login and Registration forms by clicking on the respective links at the bottom of the page. To return to the Home Page, the user must reload the browser, which takes them back to the App's Home Page.
+The app has a simple user interface. The app starts with a Home Page that contains details of the app. When a user clicks the        **Get Started** button on the Home Page, they are directed to the Login Page. Here the user can check the Login and Register functionality of the app by entering valid details. The user can switch between the Login and Registration forms by clicking on the respective links at the bottom of the page. To return to the Home Page, the user must reload the browser, which takes them back to the App's Home Page.
