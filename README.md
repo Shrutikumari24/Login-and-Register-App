@@ -43,10 +43,10 @@ To run this project locally, follow these steps:
 ![Screenshot (89)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/169c96fe-de02-478d-b25d-264d96005169)
 
 ### Login Page:
-![Screenshot (132)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/921b394f-7ee7-480b-8920-8b231c13eeea)
+![Screenshot (132)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/aee510a7-5829-4171-ac2d-b04243033e97)
 
 ### Registration Page:
-![Screenshot (133)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/1eb95a8c-a93b-4ba5-a19d-b24b1bc84247)
+![Screenshot (133)](https://github.com/Shrutikumari24/Login-and-Register-App/assets/102343505/cf90d80f-5409-4419-a66d-c39be2385a98)
 
 ## Working
 
